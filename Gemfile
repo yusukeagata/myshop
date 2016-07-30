@@ -47,4 +47,3 @@ end
 gem 'solidus'
 gem 'solidus_auth_devise'
 gem 'solidus_i18n', github: 'solidusio-contrib/solidus_i18n', branch: 'master'
-
